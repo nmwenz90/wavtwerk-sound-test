@@ -14,7 +14,7 @@ var circleArray = [];
 var singleCircle = 1;
 
 function preload(){
-song = loadSound('https://res.cloudinary.com/dvwvkt7iq/video/upload/v1522974434/onesixteentwerkn2018_p4alng.mp3');
+song = loadSound('https://res.cloudinary.com/dvwvkt7iq/video/upload/br_128,q_80/v1522974434/onesixteentwerkn2018_p4alng.mp3');
 }
 
 function windowResized(){
